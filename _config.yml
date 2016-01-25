@@ -1,0 +1,14 @@
+layout_spectrum: 0.001836388
+typography_spectrum: 0.639808
+color:
+  saturation: 0.4532499
+  lightness: 0.5648007
+  brandStrength: 0.4944929
+  rhythmicContrast: 0.1915525
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: ' quotidiana'
